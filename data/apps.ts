@@ -14,17 +14,17 @@ export interface AppData {
 export const appsData: AppData[] = [
   {
     id: '1',
-    name: 'Rojgar with ankit MOD',
+    name: 'Rojgarwithrankit MOD',
     description: 'Premium unlocked features for Rojgarwithrankit study platform.',
     longDescription: 'Get full access to Rojgarwithrankit premium courses and materials. This MOD version allows you to study without any restrictions, providing all the tools you need to excel in your exams. Download the Rojgarwithrankit mode APK now from VIPstudy.site.',
-    icon: 'https://image2url.com/r2/default/images/1775225059923-cc4db32f-807c-40fa-b5e2-aa2b1a3d893c.jpg',
+    icon: 'https://play-lh.googleusercontent.com/4G0OEcvtfchQuBR9mxlyds2Q-tyDm9Z_rjj1W1cz0vC1O5qzCmntKxWM8YjYxytp538',
     type: 'MOD',
     website: 'https://VIPstudy.site',
     category: 'Education',
     tags: ['Rojgarwithrankit', 'Study', 'MOD', 'APK'],
     screenshots: [
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc68yxrVP1Hg5Sl_MKGRUwu8fApMy9n_nBMsmm825DQ&s',
-      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc68yxrVP1Hg5Sl_MKGRUwu8fApMy9n_nBMsmm825DQ&s'
+      'https://picsum.photos/seed/shot1/800/600',
+      'https://picsum.photos/seed/shot2/800/600'
     ]
   },
   {
@@ -32,9 +32,9 @@ export const appsData: AppData[] = [
     name: 'Careerwill Premium MOD',
     description: 'Unlock all Careerwill courses and live classes for free.',
     longDescription: 'Careerwill mode APK is the ultimate solution for students looking for premium education. Access all live classes, recorded sessions, and PDF notes without a subscription. Experience the best of VIP study with Careerwill MOD.',
-    icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1gCKpwk6-3rA-Jk_-hCN4LmOK4Mn8ZotlzpFkGYudNA&s=10',
+    icon: 'https://play-lh.googleusercontent.com/QUsJ9CLpbJDymAWWbvfWZhdOoFp9a_9mexh-speE5iVNMesW-EAXf2GDF4bLa7npyg',
     type: 'MOD',
-    website: '',
+    website: 'https://VIPstudy.site',
     category: 'Education',
     tags: ['Careerwill', 'Premium', 'MOD', 'Education'],
     screenshots: [
@@ -44,10 +44,10 @@ export const appsData: AppData[] = [
   },
   {
     id: '3',
-    name: 'Khan global studio',
+    name: 'Khan Academy Plus',
     description: 'Enhanced learning experience for Khan Academy users.',
     longDescription: 'Khan Academy mode APK offers an ad-free and enhanced learning experience. Access all subjects from math to science with additional VIP study tools. Perfect for students worldwide looking for premium apps.',
-    icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo38H9jLIXi0wQRvxataNLPGSdlZTXd2Oh19loMyNtFA&s=10',
+    icon: 'https://yt3.googleusercontent.com/fBXicMoG6QC-itJrw1YhZyZDqiH5_dKxdR-l85HE1ARqOnRVebbHdmUyrgHvNMZ7thKpg_HjKw=s900-c-k-c0x00ffffff-no-rj',
     type: 'MOD',
     website: 'https://VIPstudy.site',
     category: 'Education',
@@ -61,7 +61,7 @@ export const appsData: AppData[] = [
     name: 'Study IQ Elite MOD',
     description: 'Premium access to Study IQ UPSC and government exam prep.',
     longDescription: 'Study IQ mode APK provides elite access to all UPSC and government exam preparation materials. Get the best study resources at VIPstudy.site. This premium app is designed for serious aspirants.',
-    icon: 'https://image2url.com/r2/default/images/1775225059923-cc4db32f-807c-40fa-b5e2-aa2b1a3d893c.jpg',
+    icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd3_LnVU02uS3_gHKpbAvmwXEzxyA3IWq4wVTU-kPj7WTX22CDnlWCjIAw&s=10',
     type: 'MOD',
     website: 'https://VIPstudy.site',
     category: 'Education',
@@ -75,7 +75,7 @@ export const appsData: AppData[] = [
     name: 'Parmar Academy MOD',
     description: 'Full access to Parmar Academy premium courses.',
     longDescription: 'Download Parmar Academy mode APK for unrestricted access to all courses and test series. The best VIP study resource for Parmar Academy fans, available exclusively at VIPstudy.site.',
-    icon: 'https://picsum.photos/seed/study5/200/200',
+    icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbEBarMB4KdV-_t7SRrGFOvyw61uI1uTRvvCcr2Ejg9Q&s=10',
     type: 'MOD',
     website: 'https://VIPstudy.site',
     category: 'Education',
@@ -89,7 +89,7 @@ export const appsData: AppData[] = [
     name: 'RG vikramjeet',
     description: 'Advanced reasoning and math tools by RG Vikramjeet.',
     longDescription: 'RG Vikramjeet mode APK is now available. Get all the premium reasoning and math courses unlocked. Elevate your VIP study experience with these premium apps.',
-    icon: 'https://picsum.photos/seed/study6/200/200',
+    icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvpPDIhLQa9pfBaInjOqZgxFsWpDwSWghhJBmHFEti9w&s=10',
     type: 'MOD',
     website: 'https://vipvikramjeet.netlify.app',
     category: 'Education',

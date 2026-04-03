@@ -17,7 +17,7 @@ export const appsData: AppData[] = [
     name: 'Rojgar with ankit MOD',
     description: 'Premium unlocked features for Rojgarwithrankit study platform.',
     longDescription: 'Get full access to Rojgarwithrankit premium courses and materials. This MOD version allows you to study without any restrictions, providing all the tools you need to excel in your exams. Download the Rojgarwithrankit mode APK now from VIPstudy.site.',
-    icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc68yxrVP1Hg5Sl_MKGRUwu8fApMy9n_nBMsmm825DQ&s',
+    icon: 'https://image2url.com/r2/default/images/1775225059923-cc4db32f-807c-40fa-b5e2-aa2b1a3d893c.jpg',
     type: 'MOD',
     website: 'https://VIPstudy.site',
     category: 'Education',

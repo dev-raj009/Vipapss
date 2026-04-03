@@ -14,17 +14,17 @@ export interface AppData {
 export const appsData: AppData[] = [
   {
     id: '1',
-    name: 'Rojgarwithrankit MOD',
+    name: 'Rojgar with ankit MOD',
     description: 'Premium unlocked features for Rojgarwithrankit study platform.',
     longDescription: 'Get full access to Rojgarwithrankit premium courses and materials. This MOD version allows you to study without any restrictions, providing all the tools you need to excel in your exams. Download the Rojgarwithrankit mode APK now from VIPstudy.site.',
-    icon: 'https://picsum.photos/seed/study1/200/200',
+    icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc68yxrVP1Hg5Sl_MKGRUwu8fApMy9n_nBMsmm825DQ&s',
     type: 'MOD',
     website: 'https://VIPstudy.site',
     category: 'Education',
     tags: ['Rojgarwithrankit', 'Study', 'MOD', 'APK'],
     screenshots: [
-      'https://picsum.photos/seed/shot1/800/600',
-      'https://picsum.photos/seed/shot2/800/600'
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc68yxrVP1Hg5Sl_MKGRUwu8fApMy9n_nBMsmm825DQ&s',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUc68yxrVP1Hg5Sl_MKGRUwu8fApMy9n_nBMsmm825DQ&s'
     ]
   },
   {
@@ -32,9 +32,9 @@ export const appsData: AppData[] = [
     name: 'Careerwill Premium MOD',
     description: 'Unlock all Careerwill courses and live classes for free.',
     longDescription: 'Careerwill mode APK is the ultimate solution for students looking for premium education. Access all live classes, recorded sessions, and PDF notes without a subscription. Experience the best of VIP study with Careerwill MOD.',
-    icon: 'https://picsum.photos/seed/study2/200/200',
+    icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1gCKpwk6-3rA-Jk_-hCN4LmOK4Mn8ZotlzpFkGYudNA&s=10',
     type: 'MOD',
-    website: 'https://VIPstudy.site',
+    website: '',
     category: 'Education',
     tags: ['Careerwill', 'Premium', 'MOD', 'Education'],
     screenshots: [
@@ -44,10 +44,10 @@ export const appsData: AppData[] = [
   },
   {
     id: '3',
-    name: 'Khan Academy Plus',
+    name: 'Khan global studio',
     description: 'Enhanced learning experience for Khan Academy users.',
     longDescription: 'Khan Academy mode APK offers an ad-free and enhanced learning experience. Access all subjects from math to science with additional VIP study tools. Perfect for students worldwide looking for premium apps.',
-    icon: 'https://picsum.photos/seed/study3/200/200',
+    icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo38H9jLIXi0wQRvxataNLPGSdlZTXd2Oh19loMyNtFA&s=10',
     type: 'MOD',
     website: 'https://VIPstudy.site',
     category: 'Education',

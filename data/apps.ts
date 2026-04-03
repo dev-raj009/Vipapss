@@ -61,7 +61,7 @@ export const appsData: AppData[] = [
     name: 'Study IQ Elite MOD',
     description: 'Premium access to Study IQ UPSC and government exam prep.',
     longDescription: 'Study IQ mode APK provides elite access to all UPSC and government exam preparation materials. Get the best study resources at VIPstudy.site. This premium app is designed for serious aspirants.',
-    icon: 'https://picsum.photos/seed/study4/200/200',
+    icon: 'https://image2url.com/r2/default/images/1775225059923-cc4db32f-807c-40fa-b5e2-aa2b1a3d893c.jpg',
     type: 'MOD',
     website: 'https://VIPstudy.site',
     category: 'Education',

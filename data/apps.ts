@@ -14,12 +14,12 @@ export interface AppData {
 export const appsData: AppData[] = [
   {
     id: '1',
-    name: 'Rojgarwithrankit MOD',
+    name: 'Rojgar with ankit MOD',
     description: 'Premium unlocked features for Rojgarwithrankit study platform.',
     longDescription: 'Get full access to Rojgarwithrankit premium courses and materials. This MOD version allows you to study without any restrictions, providing all the tools you need to excel in your exams. Download the Rojgarwithrankit mode APK now from VIPstudy.site.',
     icon: 'https://play-lh.googleusercontent.com/4G0OEcvtfchQuBR9mxlyds2Q-tyDm9Z_rjj1W1cz0vC1O5qzCmntKxWM8YjYxytp538',
     type: 'MOD',
-    website: 'https://VIPstudy.site',
+    website: 'rwa.codxraj.site',
     category: 'Education',
     tags: ['Rojgarwithrankit', 'Study', 'MOD', 'APK'],
     screenshots: [
@@ -29,7 +29,7 @@ export const appsData: AppData[] = [
   },
   {
     id: '2',
-    name: 'Careerwill Premium MOD',
+    name: 'Care*erw**ill ',
     description: 'Unlock all Careerwill courses and live classes for free.',
     longDescription: 'Careerwill mode APK is the ultimate solution for students looking for premium education. Access all live classes, recorded sessions, and PDF notes without a subscription. Experience the best of VIP study with Careerwill MOD.',
     icon: 'https://play-lh.googleusercontent.com/QUsJ9CLpbJDymAWWbvfWZhdOoFp9a_9mexh-speE5iVNMesW-EAXf2GDF4bLa7npyg',
@@ -44,12 +44,12 @@ export const appsData: AppData[] = [
   },
   {
     id: '3',
-    name: 'Khan Academy Plus',
+    name: 'Khan global studio',
     description: 'Enhanced learning experience for Khan Academy users.',
     longDescription: 'Khan Academy mode APK offers an ad-free and enhanced learning experience. Access all subjects from math to science with additional VIP study tools. Perfect for students worldwide looking for premium apps.',
     icon: 'https://yt3.googleusercontent.com/fBXicMoG6QC-itJrw1YhZyZDqiH5_dKxdR-l85HE1ARqOnRVebbHdmUyrgHvNMZ7thKpg_HjKw=s900-c-k-c0x00ffffff-no-rj',
     type: 'MOD',
-    website: 'https://VIPstudy.site',
+    website: 'kgs.codxraj.site',
     category: 'Education',
     tags: ['Khan Academy', 'Learning', 'Premium', 'Web App'],
     screenshots: [
@@ -58,12 +58,12 @@ export const appsData: AppData[] = [
   },
   {
     id: '4',
-    name: 'Study IQ Elite MOD',
+    name: 'Study IQ ',
     description: 'Premium access to Study IQ UPSC and government exam prep.',
     longDescription: 'Study IQ mode APK provides elite access to all UPSC and government exam preparation materials. Get the best study resources at VIPstudy.site. This premium app is designed for serious aspirants.',
     icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQd3_LnVU02uS3_gHKpbAvmwXEzxyA3IWq4wVTU-kPj7WTX22CDnlWCjIAw&s=10',
     type: 'MOD',
-    website: 'https://VIPstudy.site',
+    website: 'studyiq.codxraj.site',
     category: 'Education',
     tags: ['Study IQ', 'UPSC', 'MOD', 'Premium'],
     screenshots: [
@@ -72,12 +72,12 @@ export const appsData: AppData[] = [
   },
   {
     id: '5',
-    name: 'Parmar Academy MOD',
+    name: 'Parm*ar Academy ',
     description: 'Full access to Parmar Academy premium courses.',
     longDescription: 'Download Parmar Academy mode APK for unrestricted access to all courses and test series. The best VIP study resource for Parmar Academy fans, available exclusively at VIPstudy.site.',
     icon: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbEBarMB4KdV-_t7SRrGFOvyw61uI1uTRvvCcr2Ejg9Q&s=10',
     type: 'MOD',
-    website: 'https://VIPstudy.site',
+    website: 'parmar.codxraj.site',
     category: 'Education',
     tags: ['Parmar Academy', 'Education', 'MOD', 'APK'],
     screenshots: [
